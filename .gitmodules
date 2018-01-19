@@ -1,0 +1,3 @@
+[submodule "Javascript-Promises"]
+	path = Javascript-Promises
+	url = https://github.com/Airomad/Udacity-Javascript-Promises.git
