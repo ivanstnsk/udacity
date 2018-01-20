@@ -1,3 +1,6 @@
 [submodule "Javascript-Promises"]
 	path = Javascript-Promises
 	url = https://github.com/Airomad/Udacity-Javascript-Promises.git
+[submodule "Object-Oriented-Javascript"]
+	path = Object-Oriented-Javascript
+	url = https://github.com/Airomad/Udacity-Object-Oriented-Javascript.git
