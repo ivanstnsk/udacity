@@ -13,7 +13,7 @@ Status | Name | Link
 :white_medium_square: | ud891: Web Accessibility | [https://www.udacity.com/course/web-accessibility--ud891](https://www.udacity.com/course/web-accessibility--ud891)
 :white_medium_square: | ud811: Intro to Progressive Web Apps | [https://www.udacity.com/course/intro-to-progressive-web-apps--ud811](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
 :white_medium_square: | ud109: Asynchronous JavaScript Requests | [https://www.udacity.com/course/asynchronous-javascript-requests--ud109](https://www.udacity.com/course/asynchronous-javascript-requests--ud109)
-:diamond_shape_with_a_dot_inside: | **Front End Developer Nanodegree** | [https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
+:white_medium_square: | **Front End Developer Nanodegree** | [https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 :white_check_mark: | ud898: Javascript Promises | [https://classroom.udacity.com/courses/ud898](https://classroom.udacity.com/courses/ud898)
 :white_check_mark: | ud989: Javascript Design Patterns | [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)
 :white_check_mark: | ud711: Object Oriented Javascript | [https://classroom.udacity.com/courses/ud711](https://classroom.udacity.com/courses/ud711)
