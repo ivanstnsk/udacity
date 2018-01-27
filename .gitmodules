@@ -7,3 +7,6 @@
 [submodule "Javascript-Design-Patterns"]
 	path = Javascript-Design-Patterns
 	url = https://github.com/airomad/udacity-javascript-design-patterns.git
+[submodule "Intro-To-jQuery"]
+	path = Intro-To-jQuery
+	url = https://github.com/airomad/udacity-intro-to-jquery.git
