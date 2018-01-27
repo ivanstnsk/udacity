@@ -10,3 +10,6 @@
 [submodule "Intro-To-jQuery"]
 	path = Intro-To-jQuery
 	url = https://github.com/airomad/udacity-intro-to-jquery.git
+[submodule "Javascript-and-the-DOM"]
+	path = Javascript-and-the-DOM
+	url = https://github.com/airomad/udacity-javascript-and-the-dom.git
