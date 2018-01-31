@@ -13,3 +13,6 @@
 [submodule "Javascript-and-the-DOM"]
 	path = Javascript-and-the-DOM
 	url = https://github.com/airomad/udacity-javascript-and-the-dom.git
+[submodule "ES6-Javascript-Improved"]
+	path = ES6-Javascript-Improved
+	url = https://github.com/airomad/udacity-es6-javascript-improved
