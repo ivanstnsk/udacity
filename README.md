@@ -15,6 +15,7 @@ Status | Name | Link
 :white_medium_square: | ud884: Website Performance Optimization by Google | [https://www.udacity.com/course/website-performance-optimization--ud884](https://www.udacity.com/course/website-performance-optimization--ud884)
 :white_medium_square: | **Front End Developer Nanodegree** | [https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001](https://www.udacity.com/course/front-end-web-developer-nanodegree--nd001)
 :white_medium_square: | **React Developer Nanodegree** | [https://www.udacity.com/course/react-nanodegree--nd019](https://www.udacity.com/course/react-nanodegree--nd019)
+:white_check_mark: | ud456: GitHub & Collaboration | [https://classroom.udacity.com/courses/ud456](https://classroom.udacity.com/courses/ud456)
 :white_check_mark: | ud117: Javascript and the DOM | [https://classroom.udacity.com/courses/ud117](https://classroom.udacity.com/courses/ud117)
 :white_check_mark: | ud898: Javascript Promises | [https://classroom.udacity.com/courses/ud898](https://classroom.udacity.com/courses/ud898)
 :white_check_mark: | ud989: Javascript Design Patterns | [https://www.udacity.com/course/javascript-design-patterns--ud989](https://www.udacity.com/course/javascript-design-patterns--ud989)

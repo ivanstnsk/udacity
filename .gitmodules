@@ -16,3 +16,6 @@
 [submodule "ES6-Javascript-Improved"]
 	path = ES6-Javascript-Improved
 	url = https://github.com/airomad/udacity-es6-javascript-improved
+[submodule "Github-and-Collaboration"]
+	path = Github-and-Collaboration
+	url = https://github.com/airomad/udacity-github-and-collaboration.git
