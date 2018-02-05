@@ -19,3 +19,6 @@
 [submodule "Github-and-Collaboration"]
 	path = Github-and-Collaboration
 	url = https://github.com/airomad/udacity-github-and-collaboration.git
+[submodule "Web-Tooling-and-Automation-by-Google"]
+	path = Web-Tooling-and-Automation-by-Google
+	url = https://github.com/airomad/udacity-web-tooling-and-automation-by-google.git
