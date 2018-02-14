@@ -22,3 +22,6 @@
 [submodule "Web-Tooling-and-Automation-by-Google"]
 	path = Web-Tooling-and-Automation-by-Google
 	url = https://github.com/airomad/udacity-web-tooling-and-automation-by-google.git
+[submodule "Building-High-Conversion-Web-Forms"]
+	path = Building-High-Conversion-Web-Forms
+	url = https://github.com/airomad/udacity-building-high-conversion-web-forms.git
