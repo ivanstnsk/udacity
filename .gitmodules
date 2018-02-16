@@ -25,3 +25,6 @@
 [submodule "Building-High-Conversion-Web-Forms"]
 	path = Building-High-Conversion-Web-Forms
 	url = https://github.com/airomad/udacity-building-high-conversion-web-forms.git
+[submodule "Offline-Web-Applications"]
+	path = Offline-Web-Applications
+	url = https://github.com/airomad/udacity-offline-web-applications.git
