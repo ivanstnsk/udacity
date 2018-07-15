@@ -5,6 +5,7 @@ Main Repository for Udacity Courses
 
 Status | Name | Link
 ----| -------|------
+:white_medium_square: | ud388: Designing RESTful APIs | [https://classroom.udacity.com/courses/ud388/](https://classroom.udacity.com/courses/ud388/)
 :white_medium_square: | ud899: Offline Web Applications | [https://www.udacity.com/course/offline-web-applications--ud899](https://www.udacity.com/course/offline-web-applications--ud899)
 :white_medium_square: | ud891: Web Accessibility | [https://www.udacity.com/course/web-accessibility--ud891](https://www.udacity.com/course/web-accessibility--ud891)
 :white_medium_square: | ud811: Intro to Progressive Web Apps | [https://www.udacity.com/course/intro-to-progressive-web-apps--ud811](https://www.udacity.com/course/intro-to-progressive-web-apps--ud811)
