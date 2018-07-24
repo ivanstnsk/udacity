@@ -5,6 +5,7 @@ Main Repository for Udacity Courses
 
 Status | Name | Link
 ----| -------|------
+:white_medium_square: | ud330: Authentication & Authorization: OAuth | [https://www.udacity.com/course/authentication-authorization-oauth--ud330](https://www.udacity.com/course/authentication-authorization-oauth--ud330)
 :white_medium_square: | ud897: Client-Server Communication by Google | [https://www.udacity.com/course/client-server-communication--ud897](https://www.udacity.com/course/client-server-communication--ud897)
 :white_medium_square: | ud388: Designing RESTful APIs | [https://classroom.udacity.com/courses/ud388/](https://classroom.udacity.com/courses/ud388/)
 :white_medium_square: | ud899: Offline Web Applications | [https://www.udacity.com/course/offline-web-applications--ud899](https://www.udacity.com/course/offline-web-applications--ud899)
