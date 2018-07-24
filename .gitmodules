@@ -28,3 +28,6 @@
 [submodule "Offline-Web-Applications"]
 	path = Offline-Web-Applications
 	url = https://github.com/airomad/udacity-offline-web-applications.git
+[submodule "Designing-RESTful-API"]
+	path = Designing-RESTful-API
+	url = https://github.com/Airomad/Udacity-Designing-RESTful-API.git
